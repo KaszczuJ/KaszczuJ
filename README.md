@@ -9,11 +9,10 @@ Learning web development in free time.
 ```JS
 const filip = {
   age: 22,
-  pronouns: "he/him",
   languages: ["Polish", "English"],
   code: ["HTML", "CSS", "JavaScript"],
-  technologies: ["React.js", "React Router", "SASS"],
-  currentlyLearning: ["TypeScript"],
-  upcomingLearning: ["Redux", "Node.js", "Fastify"]
+  technologies: ["React.js", "SASS", "tailwindcss"],
+  currentlyLearning: ["React Router"],
+  upcomingLearning: ["Redux / Zustand", "Tanstack Query", "Jest", "Next.js", "TypeScript", "Node.js", "Fastify"]
 };
 ```
