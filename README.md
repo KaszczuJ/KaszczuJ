@@ -13,7 +13,7 @@ const filip = {
   languages: ["Polish", "English"],
   code: ["HTML", "CSS", "JavaScript"],
   technologies: ["React", "Tailwind CSS", "React Router"],
-  currentlyLearning: ["Tanstack Query"],
-  upcomingLearning: ["Redux / Zustand", "Vitest", "TypeScript", "Next"]
+  currentlyLearning: ["Tanstack Query", "Tanstack Router", "Tanstack Form"],
+  upcomingLearning: ["Redux", "Zustand", "Vitest", "TypeScript", "Next"]
 };
 ```
