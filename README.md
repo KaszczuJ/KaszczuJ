@@ -12,8 +12,8 @@ const filip = {
   age: 23,
   languages: ["Polish", "English"],
   code: ["HTML", "CSS", "JavaScript", "TypeScript"],
-  technologies: ["React.js", "Tailwind", "Tanstack Query", "Zustand"],
-  currentlyLearning: ["Next.js"],
-  upcomingLearning: ["Playwright"]
+  technologies: ["React.js", "Tailwind", "Tanstack Query", "Zustand", "Next.js", "Playwright"],
+  currentlyLearning: [],
+  upcomingLearning: []
 };
 ```
